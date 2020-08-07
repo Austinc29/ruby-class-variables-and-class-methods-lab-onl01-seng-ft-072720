@@ -13,6 +13,6 @@ class Song
     @genre = genre 
     @@count += 1 
     @@genres << genres 
-    @@artist << artist
+    @@artists << artist
   end 
 end 
