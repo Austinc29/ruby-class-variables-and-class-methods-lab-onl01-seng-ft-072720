@@ -1,5 +1,1 @@
-class Song 
-  
-end 
-
-Song.artists
+require.pry 
