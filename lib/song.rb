@@ -1,5 +1,5 @@
 require 'pry'
 
 class Song 
-  attr_accessor :g
+  attr_accessor :name, :artist, :genre 
 end 
